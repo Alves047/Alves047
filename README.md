@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<h1 align=center >⌨️💻 Hello World ⌨️💻 </h1>
+<h4>🤔Quem sou eu?🤔</h4>
+<p> Meu nome é Gabriel, estudante em Tecnologia em Banco de Dados na <a href="http://fatecbauru.edu.br/">Faculdade de Tecnologia de Bauru (FATEC-Bauru)</a> e em Análise de Dados na <a href="https://www.coursera.org/">Coursera</a>. </p>
 <!--
 **Alves047/Alves047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
