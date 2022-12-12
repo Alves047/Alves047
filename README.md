@@ -1,7 +1,7 @@
 <h1 align=center >⌨️💻 Hello World ⌨️💻 </h1>
 <h4>🤔Quem sou eu?🤔</h4>
 <p> Eu sou o Gabriel, estudante em Tecnologia em Banco de Dados na <a href="http://fatecbauru.edu.br/">Faculdade de Tecnologia de Bauru (FATEC-Bauru)</a> e em Análise de Dados na <a href="https://www.coursera.org/">Coursera</a>. </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alves047)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Alves047/Alves047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
