@@ -6,8 +6,8 @@
 <p>Este perfil é dedicado à hospedagem de códigos-fonte para projetos voltados ao front-end, back-end e alguns códigos "Arcade", para fins de entretenimento (e aprendizado, claro) 🙃. </p>
 <h4> <b> ⬇ Segue algumas stats e alguns 'fru-frus' do meu perfil e fique à vontade para olhar alguns repositórios!⬇🤭 </b> </h4>
 <div align='center'>
-<img src='https://github-readme-stats.vercel.app/api?username=Alves047&show_icons=true&theme=dark'></img>
-<img  width="490px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Alves047&layout=compact'></img>
+<img width='400px'src='https://github-readme-stats.vercel.app/api?username=Alves047&show_icons=true&theme=dark'></img>
+<img width="400px"src='https://github-readme-stats.vercel.app/api/top-langs/?username=Alves047&layout=compact'></img>
 </div>
 <div align="center">
   <h4><b>😃Bora fazer um networking?Conecte ai:😃</b></h4> 
