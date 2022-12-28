@@ -1,6 +1,6 @@
 
 <div align=center>
-  <h1>⌨️💻 Hello World and Welcome to my profile ⌨️💻 </h1>
+  <h1>⌨️💻 Hello World and Welcome to my profile 💻⌨️ </h1>
 </div>
 
 <div align=center>
@@ -16,7 +16,7 @@
 <p> Eu sou o Gabriel, estudante em Tecnologia em Banco de Dados na <a href="http://fatecbauru.edu.br/">Faculdade de Tecnologia de Bauru (FATEC-Bauru)</a> e em Análise de Dados na <a href="https://www.coursera.org/">Coursera</a>. Sempre que possivel, subo alguns códigos de projetos pessoais neste repositório com as boas novas 😉. </p>
 <h4 align='center'> <b>🔎O que pode encontrar por aqui?🔍</b> </h4>
 <p>Este perfil é dedicado à hospedagem de códigos-fonte para projetos voltados ao front-end, back-end e alguns códigos "Arcade", para fins de entretenimento (e aprendizado, claro) 🙃. </p>
-<h4 align='center'> <b> ⬇ Segue algumas stats e alguns 'fru-frus' do meu perfil e fique à vontade para olhar alguns repositórios!⬇🤭 </b> </h4>
+<h4 align='center'> <b> ⬇ Segue algumas stats e alguns 'fru-frus' do meu perfil e fique à vontade para olhar alguns repositórios!⬇</b> </h4>
 <div align='center'>
 <img width='400px'src='https://github-readme-stats.vercel.app/api?username=Alves047&show_icons=true&theme=dark'></img>
 <img width="400px"src='https://github-readme-stats.vercel.app/api/top-langs/?username=Alves047&layout=compact'></img>
