@@ -10,8 +10,10 @@
 <img width="400px"src='https://github-readme-stats.vercel.app/api/top-langs/?username=Alves047&layout=compact'></img>
 </div>
 <div align="center">
-  <h4 align='center'><b>😃Bora fazer um networking?Conecte ai:😃</b></h4> 
-  <a text-decoration="none" href="https://www.linkedin.com/in/galves004/"><img style="height: 20px; width:20px" src="https://user-images.githubusercontent.com/85362752/191783331-338e6697-a027-4b4c-84f9-00ba340a963d.png"/> galves004 </a> 
+  <h4 align='center'><b>😃Bora fazer um networking?Segue ai:😃</b></h4> 
+  <a text-decoration="none" href="https://www.linkedin.com/in/galves004/"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a text-decoration="none" href="https://github.com/Alves047/"><img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> 
+  <a text-decoration="none" href="https://www.instagram.com/galves_001/"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
 </div>
 
 
